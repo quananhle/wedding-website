@@ -16,7 +16,6 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 
 # Getting Started
 1. `$ cd wedding-website` - go inside the project directory
-2. `$ npm` - if error message '''The term 'npm' is not recognized as the name of a cmdlet, function, script file''', then donwload NodeJS, install, add ```C:\Program Files\nodejs\``` to PATH in user variables, and restart Visual Studio Code
 2. `$ npm install` - install dependencies _(optional)_
 3. `$ gulp` - compile sass to css, minify js, etc. _(optional)_
 4. That's it, open `index.html` on your browser by just double-clicking on the file.
